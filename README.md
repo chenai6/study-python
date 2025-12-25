@@ -1,2 +1,2 @@
 # study-python
-学习ai
+自学ai-记录
